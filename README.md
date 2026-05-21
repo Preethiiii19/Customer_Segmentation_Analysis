@@ -72,7 +72,7 @@ businesses to target each segment effectively.
 ![Clusters](cluster_plot.png)
 
 ### Dashboard Overview
-![Dashboard](Customer_segmentation.png)
+![Dashboard](Customer Segmentation (Power BI Dashboard).png)
 
 ---
 
