@@ -71,6 +71,9 @@ businesses to target each segment effectively.
 ### Customer Segments
 ![Clusters](cluster_plot.png)
 
+### Dashboard Overview
+![Dashboard](Customer_segmentation.png)
+
 ---
 
 ## Outcome
