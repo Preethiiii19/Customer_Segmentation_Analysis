@@ -55,10 +55,10 @@ businesses to target each segment effectively.
 | File | Description |
 |------|-------------|
 | customer_segmentation.ipynb | Main Python analysis notebook |
-| dataset.csv | Dataset used for analysis |
+| dataset.xlsx | Dataset used for analysis |
 | elbow_curve.png | Elbow method graph |
 | cluster_plot.png | Customer cluster visualization |
-| dashboard.png | Power BI dashboard screenshot |
+| powerbi_dashboard.png | Power BI dashboard screenshot |
 | dashboard.pbix | Power BI dashboard file |
 
 ---
